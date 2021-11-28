@@ -2,20 +2,12 @@
 
 **TODO: Add description**
 
-## Installation
+## Running
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `sum_list` to your list of dependencies in `mix.exs`:
-
-```elixir
-def deps do
-  [
-    {:sum_list, "~> 0.1.0"}
-  ]
-end
+```bash
+iex.bat -S mix
 ```
 
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/sum_list](https://hexdocs.pm/sum_list).
+## To study:
 
+- [**Recursividade e Tail Call Optimization**](https://www.notion.so/Recursividade-e-Tail-Call-Optimization-79f2a8103b174d6db58d8bea19546c0d)
